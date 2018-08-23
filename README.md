@@ -46,3 +46,5 @@ http://www.laurentlessard.com/teaching/cs524/slides/19%20-%20logic%20constraints
 1. APML, SQL, relational databases, object oriented programming, Simul8, network modeling, Perl, Ruby, R, SAS, SQL, Python
 2. Experience prototyping and developing software in traditional programming languages (C++/ Java/ Python/Perl.), Data Mining, 
 3. Familiarity with enterprise-wide application development life-cycle
+## Google:
+entry level: leetcode, all algorithms and problems
